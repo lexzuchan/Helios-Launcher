@@ -1,0 +1,16 @@
+{
+  "name": "Aster Spaceplane",
+  "kind": "plane",
+  "payload": 3500,
+  "area": 12,
+  "cd": 0.035,
+  "wing": 50,
+  "stages": [
+    {
+      "dry": 3500,
+      "fuel": 14000,
+      "thrust": 300000,
+      "isp": 900
+    }
+  ]
+}

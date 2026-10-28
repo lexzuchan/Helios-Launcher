@@ -1,0 +1,22 @@
+{
+  "name": "Helios Two Stage",
+  "kind": "rocket",
+  "payload": 1400,
+  "area": 8,
+  "cd": 0.28,
+  "wing": 0,
+  "stages": [
+    {
+      "dry": 4000,
+      "fuel": 26000,
+      "thrust": 550000,
+      "isp": 310
+    },
+    {
+      "dry": 900,
+      "fuel": 6500,
+      "thrust": 110000,
+      "isp": 350
+    }
+  ]
+}

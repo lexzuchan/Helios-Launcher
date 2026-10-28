@@ -1,0 +1,9 @@
+{
+  "name": "Orbital Probe",
+  "kind": "object",
+  "payload": 600,
+  "area": 2,
+  "cd": 0.3,
+  "wing": 0,
+  "stages": []
+}
